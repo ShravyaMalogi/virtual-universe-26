@@ -55,4 +55,8 @@ Learn about:
 1. [Attach a cheat sheet artifact](./github-virtual-universe-highlights/attach-a-cheat-sheet-artifact/): Attach an Artifact to an Issue and download a cheat sheet for everything in this repo. (Also find a ✨super duper secret surprise✨ at the end of this section)
 2. [GitHub Universe recap page](https://github.com/events/universe/recap/): View all the main announcements, with links to demos and resources.
 
+# My Virtual Universe '26 Badge
 
+<p align="center">
+  <img src="assets/virtual-universe-26-badge.gif" width="500">
+</p>
