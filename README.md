@@ -58,5 +58,5 @@ Learn about:
 # My Virtual Universe '26 Badge
 
 <p align="center">
-  <img src="assets/virtual-universe-26-badge.gif" width="500">
+  <img src="https://github.com/ShravyaMalogi/virtual-universe-26/releases/download/virtual-universe-26-badge/virtual-universe-26-badge.gif" width="500">
 </p>
